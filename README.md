@@ -1,2 +1,2 @@
 # Competitive Programming
- This folder contains codes of all the codes practiced from August 2020
+ This repository contains codes of all the codes practiced from August 2020
